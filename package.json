@@ -1,0 +1,30 @@
+{
+  "name": "randompingenerator",
+  "version": "1.0.0",
+  "description": "Random Pin Genertor exercise",
+  "main": "index.js",
+  "dependencies": {
+    "require": "^2.4.20"
+  },
+  "devDependencies": {
+    "jasmine": "^2.5.2",
+    "jasmine-node": "^1.14.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hernang87/RandomPinGenerator.git"
+  },
+  "keywords": [
+    "Pin",
+    "Generator"
+  ],
+  "author": "Hernan Garchtrom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hernang87/RandomPinGenerator/issues"
+  },
+  "homepage": "https://github.com/hernang87/RandomPinGenerator#readme"
+}
