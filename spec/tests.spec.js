@@ -2,7 +2,7 @@ const RandomPinGenerator = require('../src/RandomPinGenerator');
 
 describe('RandomPinGenerator constructor', () => {
     it('has default values', () => {
-        let rpg = new RandomPinGenerator(4, 3);
+        let rpg = new RandomPinGenerator();
         expect(rpg.digits).not.toBeNull();
         expect(rpg.invalidNumberOfConsecutiveDigits).not.toBeNull();
     });
