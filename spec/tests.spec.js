@@ -1,4 +1,4 @@
-const RandomPinGenerator = require('./RandomPinGenerator');
+const RandomPinGenerator = require('../src/RandomPinGenerator');
 
 describe('RandomPinGenerator constructor', () => {
     it('has default values', () => {
